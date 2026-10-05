@@ -2,7 +2,8 @@
 
 **Curso:** Programación WEB (ITLA) · 2026-C-003
 **Profesor:** Raydelto Hernández
-**Estudiante:** _Tu nombre aquí_
+**Estudiante:** Martin Esteban Gomez Santana
+**Matricula:** 2024-2481
 
 ## Descripción
 
@@ -14,6 +15,9 @@ usando la función `fetch` de JavaScript.
 
 ## Capturas de pantallas
 <img width="1189" height="764" alt="image" src="https://github.com/user-attachments/assets/fea45efa-5b08-4d0e-a0dc-c10e1fa08a06" />
+
+<img width="1088" height="670" alt="image" src="https://github.com/user-attachments/assets/1b466024-465d-467b-85d1-656387752a71" />
+
 
 
 ## Estructura del proyecto
