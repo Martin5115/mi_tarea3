@@ -12,6 +12,10 @@ De cada contacto se almacena **nombre**, **apellido** y **teléfono**.
 Los datos se leen y se guardan en el servicio web `http://www.raydelto.org/agenda.php`
 usando la función `fetch` de JavaScript.
 
+## Capturas de pantallas
+<img width="1189" height="764" alt="image" src="https://github.com/user-attachments/assets/fea45efa-5b08-4d0e-a0dc-c10e1fa08a06" />
+
+
 ## Estructura del proyecto
 
 ```
