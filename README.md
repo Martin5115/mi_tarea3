@@ -25,10 +25,8 @@ usando la función `fetch` de JavaScript.
 ```
 agenda/
 ├── index.html       Estructura de la página (HTML5)
-├── css/
-│   └── styles.css   Estilos (CSS3)
-├── js/
-│   └── app.js       Lógica y consumo del servicio web (JavaScript)
+├── styles.css       Estilos (CSS3)
+├── app.js           Lógica y consumo del servicio web (JavaScript)
 └── README.md
 ```
 
